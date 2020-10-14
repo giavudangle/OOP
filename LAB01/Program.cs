@@ -64,12 +64,21 @@ namespace LAB01
             }
             Circle maxCircle = MaxCircle(listCircle);
             Console.WriteLine("Max Circle: " + maxCircle.ToString());
+            Console.WriteLine("===================Before Sort=================");      
             foreach (Circle x in listCircle)
+<<<<<<< HEAD
                 x.Output();
             List<Circle>results = (List<Circle>)listCircle.OrderBy(p => p.CalculateArea()).ToList();
             Console.WriteLine(results.ToList());
             foreach (Circle x in results)
                 x.Output();
+=======
+                Console.WriteLine(x.ToString());
+            List<Circle> mySorted =  listCircle.OrderBy(p => p.CalculateArea()).ToList();   
+            Console.WriteLine("===================After Sort=================");      
+            foreach (Circle x in mySorted)
+                Console.WriteLine(x.ToString());
+>>>>>>> 6a58cb0a9157e391a7ce0052055afd10fc94bc28
         }
 
         public static Circle MaxCircle(List<Circle> listCircle)

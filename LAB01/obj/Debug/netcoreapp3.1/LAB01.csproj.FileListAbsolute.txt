@@ -11,3 +11,16 @@ D:\OOP\LAB01\obj\Debug\netcoreapp3.1\LAB01.csproj.CoreCompileInputs.cache
 D:\OOP\LAB01\obj\Debug\netcoreapp3.1\LAB01.dll
 D:\OOP\LAB01\obj\Debug\netcoreapp3.1\LAB01.pdb
 D:\OOP\LAB01\obj\Debug\netcoreapp3.1\LAB01.genruntimeconfig.cache
+D:\HUFLIT Semester III\OOP\LAB01\bin\Debug\netcoreapp3.1\LAB01.exe
+D:\HUFLIT Semester III\OOP\LAB01\bin\Debug\netcoreapp3.1\LAB01.deps.json
+D:\HUFLIT Semester III\OOP\LAB01\bin\Debug\netcoreapp3.1\LAB01.runtimeconfig.json
+D:\HUFLIT Semester III\OOP\LAB01\bin\Debug\netcoreapp3.1\LAB01.runtimeconfig.dev.json
+D:\HUFLIT Semester III\OOP\LAB01\bin\Debug\netcoreapp3.1\LAB01.dll
+D:\HUFLIT Semester III\OOP\LAB01\bin\Debug\netcoreapp3.1\LAB01.pdb
+D:\HUFLIT Semester III\OOP\LAB01\obj\Debug\netcoreapp3.1\LAB01.csprojAssemblyReference.cache
+D:\HUFLIT Semester III\OOP\LAB01\obj\Debug\netcoreapp3.1\LAB01.AssemblyInfoInputs.cache
+D:\HUFLIT Semester III\OOP\LAB01\obj\Debug\netcoreapp3.1\LAB01.AssemblyInfo.cs
+D:\HUFLIT Semester III\OOP\LAB01\obj\Debug\netcoreapp3.1\LAB01.csproj.CoreCompileInputs.cache
+D:\HUFLIT Semester III\OOP\LAB01\obj\Debug\netcoreapp3.1\LAB01.dll
+D:\HUFLIT Semester III\OOP\LAB01\obj\Debug\netcoreapp3.1\LAB01.pdb
+D:\HUFLIT Semester III\OOP\LAB01\obj\Debug\netcoreapp3.1\LAB01.genruntimeconfig.cache
