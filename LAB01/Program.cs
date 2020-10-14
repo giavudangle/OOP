@@ -66,9 +66,9 @@ namespace LAB01
             Console.WriteLine("Max Circle: " + maxCircle.ToString());
             foreach (Circle x in listCircle)
                 x.Output();
-            listCircle.Select(p => p).OrderBy(p => p.CalculateArea());
-            
-            foreach (Circle x in listCircle)
+            List<Circle>results = (List<Circle>)listCircle.OrderBy(p => p.CalculateArea()).ToList();
+            Console.WriteLine(results.ToList());
+            foreach (Circle x in results)
                 x.Output();
         }
 
