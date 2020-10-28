@@ -1,0 +1,13 @@
+D:\TH_OOP_HUFLIT\Buoi_4\OOP\bin\Debug\netcoreapp3.1\OOP.exe
+D:\TH_OOP_HUFLIT\Buoi_4\OOP\bin\Debug\netcoreapp3.1\OOP.deps.json
+D:\TH_OOP_HUFLIT\Buoi_4\OOP\bin\Debug\netcoreapp3.1\OOP.runtimeconfig.json
+D:\TH_OOP_HUFLIT\Buoi_4\OOP\bin\Debug\netcoreapp3.1\OOP.runtimeconfig.dev.json
+D:\TH_OOP_HUFLIT\Buoi_4\OOP\bin\Debug\netcoreapp3.1\OOP.dll
+D:\TH_OOP_HUFLIT\Buoi_4\OOP\bin\Debug\netcoreapp3.1\OOP.pdb
+D:\TH_OOP_HUFLIT\Buoi_4\OOP\obj\Debug\netcoreapp3.1\OOP.csprojAssemblyReference.cache
+D:\TH_OOP_HUFLIT\Buoi_4\OOP\obj\Debug\netcoreapp3.1\OOP.AssemblyInfoInputs.cache
+D:\TH_OOP_HUFLIT\Buoi_4\OOP\obj\Debug\netcoreapp3.1\OOP.AssemblyInfo.cs
+D:\TH_OOP_HUFLIT\Buoi_4\OOP\obj\Debug\netcoreapp3.1\OOP.csproj.CoreCompileInputs.cache
+D:\TH_OOP_HUFLIT\Buoi_4\OOP\obj\Debug\netcoreapp3.1\OOP.dll
+D:\TH_OOP_HUFLIT\Buoi_4\OOP\obj\Debug\netcoreapp3.1\OOP.pdb
+D:\TH_OOP_HUFLIT\Buoi_4\OOP\obj\Debug\netcoreapp3.1\OOP.genruntimeconfig.cache
